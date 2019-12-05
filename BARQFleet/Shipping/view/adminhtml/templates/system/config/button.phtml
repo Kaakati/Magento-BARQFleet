@@ -1,0 +1,21 @@
+<?php
+    // echo "step1";
+    $helper = $this->helper('BARQFleet\Shipping\Helper\Data');
+    // echo "step2";
+    $values = $helper->getApiURL();
+    // echo $values; die;
+	// $values = $block->apiurl();
+?>
+<input type="button" name="google_button" id="google_button" value="BARQ Merchant Dashboard"/>
+
+<script type="text/javascript">  
+(function  () {    
+    require(["jquery"], function($) {
+        $(document).ready(function($) {
+            $("#google_button").on("click", function(e){
+                window.open('<?php echo $values?>/merchants', '_blank');
+            })
+        }); 
+    });
+})();
+</script>

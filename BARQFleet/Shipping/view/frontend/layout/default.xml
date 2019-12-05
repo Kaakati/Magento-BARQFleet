@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+        <script src="BARQFleet_Shipping::js/shippingcost.js"/>
+
+  
+  </head>
+
+  <body>
+  	<!-- <block class="BARQFleet\Shipping\Block\" name="ship" template="BARQFleet_Shipping::onepage.phtml" /> -->
+  </body>
+
+</page>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <carriers>
+            <barq>
+                <active>1</active>
+                <sallowspecific>0</sallowspecific>
+                <model>BARQFleet\Shipping\Model\Carrier\Customshipping</model>
+                <name>BARQ Delivery</name>
+                <price>35.00</price>
+                <title>Shipping Method</title>
+                <type>I</type>
+                <specificerrmsg>This shipping method is currently not available.=</specificerrmsg>
+            </barq>
+        </carriers>
+    </default>
+</config>
