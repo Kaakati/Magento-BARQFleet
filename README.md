@@ -1,4 +1,4 @@
-<img alt="BARQ Fleet, same-day delivery method for magento merchants." src="https://live.barqfleet.com/assets/barq-logo-vertical-267bf3070a4030e47ec34fe0f690f74cdf565a4f4147c7b1aff5988011ea93c8.svg" height="120px">
+<img alt="BARQ Fleet, same-day delivery method for magento merchants." src="https://live.barqfleet.com/assets/public_logo-d564ac623c57cef2756f66af7db619c03d8f7aa657bd00300650bc2820d57682.svg" height="120px">
 
 ### BARQ Fleet, Magento Shipping Module
 Magento 2 BARQ Shipping Module, Allows merchants to deliver their products using [BARQFleet.com](https://www.barqfleet.com) as a delivery service.
